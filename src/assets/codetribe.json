@@ -1,0 +1,148 @@
+ {
+     "courses": [{
+             "title": "Soft Skills in Programming",
+             "number": 1,
+             "icon": "bicycle",
+             "weeks": 3,
+             "lessons": [{
+                     "title": "Introduction and Team Building",
+                     "number": 1,
+                     "description": "Lesson description about Introduction and Team Building",
+                     "image": "http://www.pngall.com/wp-content/uploads/2016/07/Team-Work-Transparent.png"
+                 },
+                 {
+                     "title": "Agile Scrum Training",
+                     "number": 2,
+                     "description": "Lesson description about Agile Scrum Training",
+                     "image": "http://www.aalogics.com/sites/default/files/styles/full_post/public/Agile_Scrum_Belgium.png?itok=IySEr-pM"
+                 },
+                 {
+                     "title": "Intro to Web Development",
+                     "number": 3,
+                     "description": "Lesson description about Intro to Web Development",
+                     "image": "http://www.trendibyte.com/wp-content/uploads/2018/01/Web-Development-300x283.png"
+                 }
+             ]
+         },
+         {
+             "title": "Building Blocks of the Web",
+             "number": 2,
+             "icon": "logo-html5",
+             "weeks": 4,
+             "lessons": [{
+                     "title": "Dive Deeper into HTML",
+                     "number": 1,
+                     "description": "Lesson description about Introduction and Team Building",
+                     "image": "https://www.iwebnext.com/images%20of%20page/html%205/logo.png"
+                 },
+                 {
+                     "title": "Styling HTML Pages",
+                     "number": 2,
+                     "description": "Lesson description about Styling HTML Pages",
+                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/2000px-CSS.3.svg.png"
+                 },
+                 {
+                     "title": "JavaScript : An Intro to Angular",
+                     "number": 3,
+                     "description": "Lesson description about JavaScript : An Intro to Angular",
+                     "image": "http://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png"
+                 },
+                 {
+                     "title": "Angular",
+                     "number": 4,
+                     "description": "Lesson description about Angular",
+                     "image": "https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png"
+                 }
+             ]
+         },
+         {
+             "title": "Ionic Development for Beginners",
+             "number": 3,
+             "weeks": 3,
+             "icon": "ionic",
+             "lessons": [{
+                     "title": "Building Layouts",
+                     "number": 1,
+                     "description": "Lesson description about Building Layouts",
+                     "image": "http://reactor.apppresser.com/wp-content/uploads/2015/05/ionic-logo-300-300x248.png"
+                 },
+                 {
+                     "title": "Making an app interactive",
+                     "number": 2,
+                     "description": "Lesson description about Making an app interactive",
+                     "image": "http://reactor.apppresser.com/wp-content/uploads/2015/05/ionic-logo-300-300x248.png"
+
+
+                 },
+                 {
+                     "title": "Ionic Framework and Control Flow",
+                     "number": 3,
+                     "description": "Lesson description about Ionic Framework and Control Flow",
+                     "image": "http://reactor.apppresser.com/wp-content/uploads/2015/05/ionic-logo-300-300x248.png"
+                 }
+             ]
+         },
+         {
+             "title": "Multi Screen Apps",
+             "number": 4,
+             "icon": "logo-angular",
+             "weeks": 4,
+             "lessons": [{
+                     "title": "Pages and Navigation",
+                     "number": 1,
+                     "description": "Lesson description about Pages and Navigation",
+                     "image": "http://reactor.apppresser.com/wp-content/uploads/2015/05/ionic-logo-300-300x248.png"
+                 },
+                 {
+                     "title": "Data, Loops, and Custom Classes",
+                     "number": 2,
+                     "description": "Lesson description about Data, Loops, and Custom Classes",
+                     "image": "https://www.tutorialspoint.com/typescript/images/loop_types.jpg"
+                 },
+                 {
+                     "title": "Images and Visual Polish",
+                     "number": 3,
+                     "description": "Lesson description about Images and Visual Polish",
+                     "image": "http://www.simpalm.com/wp-content/uploads/2017/05/mobile-app2.png"
+                 },
+                 {
+                     "title": "Native API Libraries",
+                     "number": 4,
+                     "description": "Lesson description about Native API Libraries",
+                     "image": "https://s3.envato.com/files/239854015/Screenshots/p3.png"
+                 }
+             ]
+         },
+         {
+             "title": "Networking",
+             "number": 5,
+             "icon": "wifi",
+             "weeks": 4,
+             "lessons": [{
+                     "title": "JSON Parsing",
+                     "number": 1,
+                     "description": "Lesson description about JSON Parsing",
+                     "image": "https://cdn-images-1.medium.com/max/512/1*BzD9VGIbTmQpANue7eC1Rw.png"
+                 },
+                 {
+                     "title": "HTTP Networking",
+                     "number": 2,
+                     "description": "Lesson description about HTTP Networking",
+                     "image": "http://www.pngmart.com/files/3/World-Wide-Web-PNG-Pic.png"
+                 }
+             ]
+         },
+         {
+             "title": "The Cloud",
+             "number": 6,
+             "icon": "cloud",
+             "weeks": 4,
+             "lessons": [{
+                 "title": "Firebase",
+                 "number": 1,
+                 "description": "Lesson description about Firebase",
+                 "image": "https://cdn-images-1.medium.com/max/1600/1*ipwpqQrHz0Lkd_5setXQCQ.png"
+             }]
+         }
+     ]
+ }
